@@ -62,3 +62,19 @@ Using **Python and MySQL**, raw data was cleaned and structured for analysis, fo
 ---
 
 ## 📁 Repository Structure
+
+
+
+---
+
+## 💡 Future Enhancements
+- Integrate real-time data using API connections  
+- Deploy dashboard via Power BI Service with scheduled refresh  
+- Add predictive analysis for customer churn and product demand  
+
+---
+
+## 🏷️ Author
+Rahul N 
+*Data & BI Enthusiast | Power BI Developer | Python Analyst*  
+📧 rahulmckel5@gmail.com | 🌐 [GitHub Profile Link]
