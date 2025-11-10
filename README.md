@@ -77,9 +77,7 @@ Customer-Behavior-Analysis/
 ├── images/
 │   └── Snap shot customer Behavior dashboard (2).png  # Dashboard snapshot
 │
-├── README.md                                 # Project documentation (this file)
-└── requirements.txt                          # Python dependencies (optional)
-
+├── [README.md ](https://github.com/Rahul1730/customer-behavior-dashboard/blob/main/README.md)                                # Project documentation (this file)
 ## 💡 Future Enhancements
 - Integrate real-time data using API connections  
 - Deploy dashboard via Power BI Service with scheduled refresh  
