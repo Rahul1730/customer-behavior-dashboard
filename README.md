@@ -1,6 +1,6 @@
 # 🧠 Customer Behavior Dashboard
 
-![Dashboard Preview](Snap%20shot%20customer%20Behavior%20dashboard.png)
+![Dashboard Preview]("C:\course\Project portfolio\Snap shot customer Behavior dashboard.png")
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
