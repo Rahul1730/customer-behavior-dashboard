@@ -62,8 +62,6 @@ Using **Python and MySQL**, raw data was cleaned and structured for analysis, fo
 ---
 
 ## 📁 Repository Structure
-## 📁 Repository Structure
-```bash
 Customer-Behavior-Analysis/
 │
 ├── data/
@@ -91,5 +89,5 @@ Customer-Behavior-Analysis/
 
 ## 🏷️ Author
 Rahul N 
-*Data & BI Enthusiast | Power BI Developer | Python Analyst  
-📧 rahulmckel5@gmail.com | 🌐 https://github.com/Rahul1730
+*Data & BI Enthusiast | Power BI Developer | Python Analyst*  
+📧 rahulmckel5@gmail.com | 🌐 [GitHub Profile Link]
