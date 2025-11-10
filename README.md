@@ -72,7 +72,7 @@ Customer-Behavior-Analysis/
 │   ├── data_transformation.ipynb              # Jupyter notebook for preprocessing
 │
 ├── dashboard/
-│   └── Customer_Behavior_Dashboard.pbix       # Power BI dashboard file
+│   └── (https://github.com/Rahul1730/customer-behavior-dashboard/blob/main/Customer_Behaviour%20project.pbix)      # Power BI dashboard file
 │
 ├── images/
 │   └── Snap shot customer Behavior dashboard (2).png  # Dashboard snapshot
