@@ -65,7 +65,7 @@ Using **Python and MySQL**, raw data was cleaned and structured for analysis, fo
 Customer-Behavior-Analysis/
 │
 ├── data/
-│   └── customer_shopping_behavior.csv         # Raw dataset used for analysis
+│   └── (https://github.com/Rahul1730/customer-behavior-dashboard/blob/main/customer_shopping_behavior.csv)       # Raw dataset used for analysis
 │
 ├── scripts/
 │   ├── data_cleaning.py                       # Python script for data cleaning
