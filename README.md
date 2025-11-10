@@ -62,10 +62,25 @@ Using **Python and MySQL**, raw data was cleaned and structured for analysis, fo
 ---
 
 ## 📁 Repository Structure
-
-
-
----
+## 📁 Repository Structure
+```bash
+Customer-Behavior-Analysis/
+│
+├── data/
+│   └── customer_shopping_behavior.csv         # Raw dataset used for analysis
+│
+├── scripts/
+│   ├── data_cleaning.py                       # Python script for data cleaning
+│   ├── data_transformation.ipynb              # Jupyter notebook for preprocessing
+│
+├── dashboard/
+│   └── Customer_Behavior_Dashboard.pbix       # Power BI dashboard file
+│
+├── images/
+│   └── Snap shot customer Behavior dashboard (2).png  # Dashboard snapshot
+│
+├── README.md                                 # Project documentation (this file)
+└── requirements.txt                          # Python dependencies (optional)
 
 ## 💡 Future Enhancements
 - Integrate real-time data using API connections  
