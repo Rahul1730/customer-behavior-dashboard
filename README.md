@@ -75,7 +75,7 @@ Customer-Behavior-Analysis/
 │   └── (https://github.com/Rahul1730/customer-behavior-dashboard/blob/main/Customer_Behaviour%20project.pbix)      # Power BI dashboard file
 │
 ├── images/
-│   └── Snap shot customer Behavior dashboard (2).png  # Dashboard snapshot
+│   └── (https://github.com/Rahul1730/customer-behavior-dashboard/blob/main/Snap%20shot%20customer%20Behavior%20dashboard%20(2).png) # Dashboard snapshot
 │
 ├── [README.md ](https://github.com/Rahul1730/customer-behavior-dashboard/blob/main/README.md)                                # Project documentation (this file)
 ## 💡 Future Enhancements
