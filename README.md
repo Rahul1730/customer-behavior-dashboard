@@ -90,4 +90,4 @@ Customer-Behavior-Analysis/
 ## 🏷️ Author
 Rahul N 
 *Data & BI Enthusiast | Power BI Developer | Python Analyst*  
-📧 rahulmckel5@gmail.com | 🌐 [GitHub Profile Link]
+📧 rahulmckel5@gmail.com | 🌐 (https://github.com/Rahul1730)
